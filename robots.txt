@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://sazijijuze.pages.dev/sitemap.xml
